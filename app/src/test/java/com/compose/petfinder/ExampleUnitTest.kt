@@ -1,4 +1,4 @@
-package com.compose.jetpackcomposeinstagram
+package com.compose.petfinder
 
 import org.junit.Test
 

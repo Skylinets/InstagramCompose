@@ -1,4 +1,4 @@
-package com.compose.jetpackcomposeinstagram.ui.theme
+package com.compose.petfinder.ui.theme
 
 import androidx.compose.material.Typography
 import androidx.compose.ui.text.TextStyle

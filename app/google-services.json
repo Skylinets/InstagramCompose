@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "264494065692",
+    "firebase_url": "https://petfinder-2020-default-rtdb.firebaseio.com",
+    "project_id": "petfinder-2020",
+    "storage_bucket": "petfinder-2020.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:264494065692:android:ad9fcc7227bb132ee2d7d9",
+        "android_client_info": {
+          "package_name": "com.mascotas.petfinder"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "264494065692-qorptunlv5tk0nomd2mq08ilkvu0ddru.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdirqH-d7TSWOWbj5lZwvODHGwD40HeJ8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "264494065692-qorptunlv5tk0nomd2mq08ilkvu0ddru.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
